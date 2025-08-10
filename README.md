@@ -56,3 +56,5 @@ The primary deliverable of this project is the interactive Tableau dashboard. To
 2.  **Install Tableau:** If you do not have Tableau, you can download the free [Tableau Reader](https://www.tableau.com/products/reader) to open the file.
 3.  **Explore:** Open the `.twbx` file. You can now click on any product, store, or data point to filter the entire dashboard and explore the data for yourself.
 
+## Author
+Izaz khan || Artificial Intelligence
